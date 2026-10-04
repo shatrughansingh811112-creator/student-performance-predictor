@@ -1,5 +1,12 @@
 # 🎓 Student Exam Performance & Academic Risk Intelligence Suite
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://student-performance-predictor.streamlit.app)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange.svg)](https://scikit-learn.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+> 🚀 **Live Interactive Demo:** [https://student-performance-predictor.streamlit.app](https://student-performance-predictor.streamlit.app)
+
 A complete, production-ready Machine Learning portfolio project built from scratch with Python, Scikit-Learn, Pandas, Matplotlib, Seaborn, and Streamlit.
 
 ---
